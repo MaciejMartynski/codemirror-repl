@@ -1,0 +1,12 @@
+{
+  "name": "codemirror-repl",
+  "version": "1.0.0",
+  "main": "scripts/codemirror-repl.js",
+  "style": "styles/codemirror-repl.css",
+  "directories": {
+    "lib": "./scripts"
+  },
+  "publishConfig": {
+    "tag": "version5"
+  }
+}
